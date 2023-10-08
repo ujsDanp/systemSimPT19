@@ -20,6 +20,6 @@ clocky.lua define o comportamento do relógio de bordo, modelo militar A-11. As 
 mechanics.lua define muitos outros comportamentos relativos ao óleo, sistema pneumático, desgaste e manutenção de componentes individuais, como pneus, últimas inspeções de manutenção, e até mesmo conduz simulação dos insetos que podem colidir com nossa aeronave
 a depender da latidude e longitude, temperatura, umidade, e altitude de voo.
 
-Há mais, mas essas são alguns dos comportamentos presentes no código acima.
+Há mais, mas esses são alguns dos comportamentos presentes no código acima.
 Obrigado pela leitura!
 Dan.
